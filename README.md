@@ -9,9 +9,9 @@ Permitir que o usuário forneça:
 E ao final, gerar um relatório detalhado da execução do teste.
 
 ## Parâmetros da CLI
-- **-url**	URL do serviço a ser testado
-- **-requests**	Número total de requisições a serem feitas
-- **-concurrency**	Número de chamadas simultâneas
+- **--url**	URL do serviço a ser testado
+- **--requests**	Número total de requisições a serem feitas
+- **--concurrency**	Número de chamadas simultâneas
 
 ## Build do Docker
 ```
